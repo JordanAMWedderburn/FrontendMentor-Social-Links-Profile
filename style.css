@@ -76,7 +76,7 @@ body{
     border-radius: .3rem;
     background-color: var(--clr-Grey700);
     text-align: center;
-    transition: background-color .3s ease, color .3 ease;
+    transition: background-color .3s ease, color .3s ease;
 }
 
 .list-item:hover{
@@ -112,3 +112,4 @@ body{
     border-radius: 50%;
     margin-bottom: 1.75rem;
 }
+
