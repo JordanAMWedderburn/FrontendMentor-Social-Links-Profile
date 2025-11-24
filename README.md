@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (http://127.0.0.1:5500/social-links-profile-main/index.html)
+- Live Site URL: ([http://127.0.0.1:5500/social-links-profile-main/index.html](https://jordanamwedderburn.github.io/FrontendMentor-Social-Links-Profile/))
 
 ## My process
 
