@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](/social-links-profile-main/Screenshots/SocialLinkScreenshot.png)
+![Screenshot](social-links-profile-main/social-links-profile-main/Screenshots/SocialLinkScreenshot.png)
 
 
 ### Links
