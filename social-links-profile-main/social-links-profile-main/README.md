@@ -29,6 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot]([social-links-profile-main/social-links-profile-main/Screenshots/SocialLinkScreenshot.png](https://github.com/JordanAMWedderburn/FrontendMentor-Social-Links-Profile/blob/12235b519f7235a1cff49ba097470ce46052b1a7/social-links-profile-main/social-links-profile-main/Screenshots/SocialLinkScreenshot.png))
+<img width="1280" height="720" alt="SocialLinkScreenshot" src="https://github.com/user-attachments/assets/c0503ce7-c72b-4cda-9318-3eeda5bf42ca" />
 
 
 ### Links
